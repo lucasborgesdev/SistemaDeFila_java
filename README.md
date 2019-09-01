@@ -1,0 +1,2 @@
+# SistemaDeFila_java
+A fila, é uma forma de pessoas organizarem-se na espera de algum serviço ou bem. Numa fila, o primeiro a chegar é o primeiro a ser atendido, implementado o conceito FIFO (Fisrt In, First Out), num caso concreto. Na realidade o primeiro a chegar, sendo o primeiro a ser atendido, guarda-se o conceito de civilidade e direito, que só pode ser subvertido por meio de lei, que o caso da lei brasileira (Decreto-Lei n.º 135/99, de 22 de Abril) que manda que alguns cidadãos em especial tenham direito maior que os do que outros que chegaram anteriormente.
